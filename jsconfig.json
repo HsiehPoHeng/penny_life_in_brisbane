@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "baseUrl": "./penny_life_in_brisbane/",
+    "baseUrl": "./",
     "moduleResolution": "node",
     "paths": {
       "@/*": [
