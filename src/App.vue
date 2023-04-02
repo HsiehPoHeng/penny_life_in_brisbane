@@ -1,5 +1,5 @@
 <template>
-  <img alt="penny logo" height="250" src="https://lh3.googleusercontent.com/pw/AMWts8D7yG59hOfcGNDm4OrY77lApaNIlx117kTz1c7nuWfGU0GZ4k25SHkmckDK_-QqqvLbOol8holvCyxogNay6-BEhhlmPSEViWQWFD_SsaemguB2Fz6nxwzyLzgYqpN3zOvv_WeCBVaCD6ohj-Qo32tdLA=w1078-h809-s-no?authuser=0">
+  <img alt="penny logo" height="500" src="https://lh3.googleusercontent.com/pw/AMWts8BX-tGjTK4-vlhbskroDO0wVPi-o9NbmcdOvdBvqOoQaz_OZR8TQ4JmLMNUSx59pjWlxk3GUqvDNm4tAMtHONqaPxfd-beVN4NPv1Y-5wqb8eIlUHDhQBu-LfdSvs4Ms9EIrZ7H14IcLiWwIiXl0vOu7Q=w486-h648-s-no">
   <HelloWorld msg="Penny 的澳洲生活"/>
 </template>
 
