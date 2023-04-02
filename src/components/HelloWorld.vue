@@ -12,7 +12,7 @@
   Your browser does not support the video tag.
 </video>
     <br>
-    <a href="https://photos.google.com/album/AF1QipMHdeCrVsYTBYPMUcEj5XsIH0HMptVHWkdy1ZeE" target="_blank" rel="noopener">點我->>>風景</a>.
+    <a href="https://photos.google.com/share/AF1QipPuMFqZiTW5KKQ7_-CxQSeXJ5bBnGWZ_4HUgdCCX150KsQ9FhMFcFkvOiE81co0fQ?key=VlRDSlA4TmwwOWIzaGc5MTVBSEx1QUdDVWtEMlNR" target="_blank" rel="noopener">點我->>>風景</a>.
   </div>
 </template>
 
